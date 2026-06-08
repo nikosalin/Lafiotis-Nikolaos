@@ -4,7 +4,7 @@ import project3 from "../assets/projects/project-3.jpg";
 import MovieTheater from "../assets/projects/MovieTheater.jpg";
 import Airbnb from "../assets/projects/Airbnb.jpg";
 
-export const HERO_CONTENT = `Hey there, Im Nikos and web developer and linux sysadmin.`;
+export const HERO_CONTENT = `Hey there, Im Nikos and I am a web developer and linux Sysadmin.`;
 
 export const ABOUT_TEXT = `I am a dedicated full stack developer with a passion for creating web applications. Since 2018 when I first started my coding courses through university, I have worked with a variety of technologies, including React, Next.js, Node.js, Java, Typescript, PostgreSQL, Firebase and MongoDB. My journey in web development began in university, and it has evolved into a lifetime passion where I continuously try to learn new things. I've also have plenty of knowlegde on System administration with linux. Outside of coding, I have good Project Managment knowledge on optical fiber.`;
 
@@ -85,7 +85,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Livaditsa 58005 ",
+  address: "Thessaloniki",
   phoneNo: "+30 6986533187 ",
   email: "nikoslafiotis@gmail.com",
 };
