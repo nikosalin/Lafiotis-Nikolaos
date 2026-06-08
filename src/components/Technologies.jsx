@@ -11,6 +11,7 @@ import { BiLogoPostgresql } from "react-icons/bi";
 import { IoLogoJavascript } from "react-icons/io5";
 import { motion } from "framer-motion";
 import { FaDocker, FaGithub } from "react-icons/fa";
+import { FcLinux } from "react-icons/fc";
 
 const iconVariants = (duration) => ({
   initial: { y: -10 },
@@ -129,6 +130,14 @@ const Technologies = () => {
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
           <SiZod className="text-7xl text-blue-400" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(3)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <FcLinux className="text-7xl text-400" />
         </motion.div>
       </motion.div>
     </div>
