@@ -4,23 +4,23 @@ import project3 from "../assets/projects/project-3.jpg";
 import MovieTheater from "../assets/projects/MovieTheater.jpg";
 import Airbnb from "../assets/projects/Airbnb.jpg";
 
-export const HERO_CONTENT = `Hey there, Im Nikos and I am a software engineer, a QA engineer and linux Sysadmin.`;
+export const HERO_CONTENT = `Hey there, I am Nikos and I am a software engineer, a QA engineer and linux Sysadmin.`;
 
-export const ABOUT_TEXT = `I am a dedicated full stack developer with a passion for creating web applications. Since 2018 when I first started my coding courses through university, I have worked with a variety of technologies, including React, Next.js, Node.js, Java, Typescript, PostgreSQL, Firebase, MongoDB and Playwright. My journey in web development began in university, and it has evolved into a lifetime passion where I continuously try to learn new things. I've also have plenty of knowlegde on System administration with linux. Outside of coding, I have good Project Managment knowledge on optical fiber.`;
+export const ABOUT_TEXT = `I am a dedicated full stack developer with a passion for creating web applications. Since 2018 when I first started my coding courses through university, I have worked with a variety of technologies, including React, Next.js, Node.js, Java, Typescript, PostgreSQL, Firebase, MongoDB and Playwright. My journey in web development began in university, and it has evolved into a lifetime passion where I continuously try to learn new things. I also have plenty of knowlegde on System administration with linux. Outside of coding, I have good Project Managment knowledge on optical fiber.`;
 
 export const EXPERIENCES = [
   {
     year: "2025",
     role: "Intern FrontEnd Developer",
     //company: "Google Inc.",
-    description: `Did my six-month internship as FrontEnd developer in ARX.NET. Worked mostly for React-projects for clients as Cyta and PlanO.`,
+    description: `Did my six-month internship as FrontEnd developer at ARX.NET. Worked mostly for React-projects for clients as Cyta and PlanO.`,
     technologies: ["Typescript", "React.js", "Tanstack"],
   },
   {
     year: "2025 - Current",
     role: "Frontend Developer",
     //company: "Adobe",
-    description: `Designed and developed user interfaces for web applications and Tvs using and React Typescript. Worked closely with backend developers to integrate frontend components with .NET APIs. Implemented responsive designs and optimized frontend performance.`,
+    description: `Designed and developed user interfaces for web applications and Tvs using React and Typescript. Worked closely with backend developers to integrate frontend components with .NET APIs. Implemented responsive designs and optimized frontend performance.`,
     technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
   },
   {
